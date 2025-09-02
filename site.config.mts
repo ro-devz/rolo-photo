@@ -22,5 +22,5 @@ export default {
     title: 'Japon  R&L',
     favicon: 'favicon.ico',
     owner: 'Romane & Loic',
-    profileImage: '/profile.webp',
+    profileImage: 'profile.webp',
 };
