@@ -19,8 +19,8 @@ export const navLinks: NavLink[] = [
 
 // ✅ Default Export: Site Metadata
 export default {
-    title: 'SR',
+    title: 'Japon  R&L',
     favicon: 'favicon.ico',
-    owner: 'Sara Richard',
+    owner: 'Romane & Loic',
     profileImage: 'profile.webp',
 };
