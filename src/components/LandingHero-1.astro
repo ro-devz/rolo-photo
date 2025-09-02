@@ -1,6 +1,6 @@
 ---
 import siteConfig from '../../site.config.mjs';
-import natureBg from '../gallery/nature/nature-8.jpg';
+
 const owner = siteConfig.owner;
 
 const rawBase = import.meta.env.BASE_URL;
@@ -11,15 +11,14 @@ const base = rawBase.endsWith('/') ? rawBase.slice(0, -1) : rawBase;
 <div
 	class="absolute top-[80px] bottom-[120px] left-0 right-0 z-0"
 	style={{
-		backgroundImage: `url(${natureBg})`,
+		backgroundImage: 'url(nature-8.jpg)',
 		backgroundSize: 'cover',
 		backgroundPosition: 'center',
 		backgroundRepeat: 'no-repeat',
 		opacity: 0.6,
-}}
+	}}
 >
 </div>
-
 
 <div class="absolute left-0 right-0 z-0">
 	<div class="text-center mb-12 relative z-10">
