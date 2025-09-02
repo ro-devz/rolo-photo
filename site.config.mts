@@ -1,31 +1,43 @@
 import type { AstroInstance } from 'astro';
 import { Github, Instagram } from 'lucide-astro';
 
-// Social Links Type
+// Types
 export interface SocialLink {
 	name: string;
 	url: string;
 	icon: AstroInstance;
 }
 
-// Navigation Links Type
 export interface NavLink {
 	text: string;
 	href: string;
 }
 
+// ✅ Named Export: Navigation Links
+export const navLinks: NavLink[] = [
+	{ text: 'Home', href: '/' },
+	{ text: 'View Gallery', href: '/collections' },
+	{ text: 'About', href: '/about' },
+];
+
+// ✅ Named Export: Social Links
+export const socialLinks: SocialLink[] = [
+	{
+		name: 'GitHub',
+		url: 'https://github.com/rockem/astro-photography-portfolio',
+		icon: Github,
+	},
+	{
+		name: 'Instagram',
+		url: 'https://www.instagram.com',
+		icon: Instagram,
+	},
+];
+
+// ✅ Default Export: Site Metadata
 export default {
-	// Site Metadata
-	title: 'Japon Loic et Romane',
+	title: 'SR',
 	favicon: 'favicon.ico',
-	owner: 'Romane Devezeaux',
+	owner: 'Sara Richard',
 	profileImage: 'profile.webp',
-
-
-	// ✅ Navigation Links
-	navLinks: [
-		{ text: 'Home', href: '/' },
-		{ text: 'View Gallery', href: '/collections' }, // ✅ Correct path
-		{ text: 'About', href: '/about' },
-	] as NavLink[],
 };
