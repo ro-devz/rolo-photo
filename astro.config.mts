@@ -1,16 +1,12 @@
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
-
 import netlify from '@astrojs/netlify';
 
-// https://astro.build/config
 export default defineConfig({
-  site: 'https://rockem.github.io',
-  base: 'astro-photography-portfolio',
-
+  site: 'https://your-netlify-site.netlify.app', // or '' during dev
+  base: '/',
   vite: {
-      plugins: [tailwindcss()],
-	},
-
+    plugins: [tailwindcss()],
+  },
   adapter: netlify(),
 });
