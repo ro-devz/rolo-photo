@@ -2,7 +2,9 @@
 import siteConfig from '../../site.config.mjs';
 
 const owner = siteConfig.owner;
-const base = import.meta.env.BASE_URL;
+
+const rawBase = import.meta.env.BASE_URL;
+const base = rawBase.endsWith('/') ? rawBase.slice(0, -1) : rawBase;
 ---
 
 <div
