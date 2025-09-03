@@ -1,70 +1,11 @@
 collections:
-  - id: nature
-    name: Nature
+  - id: paris
+    name: paris
   - id: travel
     name: Travel
   - id: street
     name: Street
 images:
-  - path: nature/nature-2.jpg
-    meta:
-      title: Nature scene 2
-      description: Serene natural landscape capturing the essence of wilderness.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/nature-3.jpg
-    meta:
-      title: Nature scene 3
-      description: Breathtaking natural vista showcasing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-5.jpg
-    meta:
-      title: Nature scene 5
-      description: Natural landscape showing the raw beauty of the environment.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/nature-7.jpg
-    meta:
-      title: Nature scene 7
-      description: Stunning natural landscape capturing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-8.jpg
-    meta:
-      title: Nature scene 8
-      description: Beautiful natural vista showcasing environmental wonder.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/L1002174.jpg
-    meta:
-      title: Travel scene 6
-      description: null
-      collections:
-        - featured
-        - nature
-    exif:
-      captureDate: 2025-03-27T10:35:21.000Z
-      fNumber: 8
-      focalLength: 28
-      iso: 100
-      model: LEICA Q3
-      shutterSpeed: 1250
-      lensModel: SUMMILUX 1:1.7/28 ASPH.
-  - path: nature/nature-10.jpg
-    meta:
-      title: Nature scene 10
-      description: Majestic natural landscape displaying environmental splendor.
-      collections:
-        - nature
-    exif: {}
   - path: street/stree-1.jpg
     meta:
       title: Street photography 1
@@ -81,10 +22,508 @@ images:
         - featured
         - travel
     exif: {}
-  - path: nature/nature-1.jpg
+  - path: paris/dscf5022.jpg
     meta:
-      title: Nature 1
+      title: Dscf5022
       description: ''
       collections:
-        - nature
-    exif: {}
+        - paris
+    exif:
+      captureDate: 2025-08-07T15:45:05.000Z
+      fNumber: 4.5
+      focalLength: 16.5
+      iso: 51200
+      model: X-T50
+      shutterSpeed: 250
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf50532.jpg
+    meta:
+      title: Dscf50532
+      description: ''
+      collections:
+        - paris
+        - featured
+    exif:
+      captureDate: 2025-08-07T16:03:43.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 250
+      model: X-T50
+      shutterSpeed: 950
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5089.jpg
+    meta:
+      title: Dscf5089
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-07T19:55:28.000Z
+      fNumber: 3.3
+      focalLength: 22
+      iso: 4000
+      model: X-T50
+      shutterSpeed: 58
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5094.jpg
+    meta:
+      title: Dscf5094
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-07T19:57:01.000Z
+      fNumber: 2.8
+      focalLength: 16
+      iso: 4000
+      model: X-T50
+      shutterSpeed: 38
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5110.jpg
+    meta:
+      title: Dscf5110
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-07T20:01:12.000Z
+      fNumber: 4.8
+      focalLength: 50
+      iso: 2500
+      model: X-T50
+      shutterSpeed: 25
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5162.jpg
+    meta:
+      title: Dscf5162
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T11:26:17.000Z
+      fNumber: 5.6
+      focalLength: 28.7
+      iso: 125
+      model: X-T50
+      shutterSpeed: 280
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5165.jpg
+    meta:
+      title: Dscf5165
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T11:26:45.000Z
+      fNumber: 5.6
+      focalLength: 27.9
+      iso: 125
+      model: X-T50
+      shutterSpeed: 240
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5166.jpg
+    meta:
+      title: Dscf5166
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T11:26:49.000Z
+      fNumber: 5
+      focalLength: 27.9
+      iso: 125
+      model: X-T50
+      shutterSpeed: 240
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5169.jpg
+    meta:
+      title: Dscf5169
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T11:27:56.000Z
+      fNumber: 5.6
+      focalLength: 16
+      iso: 250
+      model: X-T50
+      shutterSpeed: 209.99999999999997
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5189.jpg
+    meta:
+      title: Dscf5189
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T11:34:27.000Z
+      fNumber: 4.8
+      focalLength: 50
+      iso: 125
+      model: X-T50
+      shutterSpeed: 150
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5245.jpg
+    meta:
+      title: Dscf5245
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T11:46:01.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 125
+      model: X-T50
+      shutterSpeed: 480
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5255.jpg
+    meta:
+      title: Dscf5255
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T11:47:06.000Z
+      fNumber: 5
+      focalLength: 16
+      iso: 160
+      model: X-T50
+      shutterSpeed: 200
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5257.jpg
+    meta:
+      title: Dscf5257
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T11:47:18.000Z
+      fNumber: 5.6
+      focalLength: 16
+      iso: 160
+      model: X-T50
+      shutterSpeed: 350
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5309.jpg
+    meta:
+      title: Dscf5309
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T11:53:38.000Z
+      fNumber: 4.09
+      focalLength: 37.4
+      iso: 200
+      model: X-T50
+      shutterSpeed: 110
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5326.jpg
+    meta:
+      title: Dscf5326
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T12:02:18.000Z
+      fNumber: 5.6
+      focalLength: 27.1
+      iso: 125
+      model: X-T50
+      shutterSpeed: 480
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5336.jpg
+    meta:
+      title: Dscf5336
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T12:03:45.000Z
+      fNumber: 5
+      focalLength: 34.3
+      iso: 125
+      model: X-T50
+      shutterSpeed: 240
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5354.jpg
+    meta:
+      title: Dscf5354
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T12:17:52.000Z
+      fNumber: 5.6
+      focalLength: 39.6
+      iso: 125
+      model: X-T50
+      shutterSpeed: 300
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5372.jpg
+    meta:
+      title: Dscf5372
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T12:22:52.000Z
+      fNumber: 5.6
+      focalLength: 44.5
+      iso: 125
+      model: X-T50
+      shutterSpeed: 250
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5380.jpg
+    meta:
+      title: Dscf5380
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T12:24:30.000Z
+      fNumber: 5.6
+      focalLength: 27.9
+      iso: 125
+      model: X-T50
+      shutterSpeed: 400
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5397.jpg
+    meta:
+      title: Dscf5397
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T12:26:58.000Z
+      fNumber: 5.6
+      focalLength: 37.4
+      iso: 125
+      model: X-T50
+      shutterSpeed: 800
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5399.jpg
+    meta:
+      title: Dscf5399
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T12:28:05.000Z
+      fNumber: 5.6
+      focalLength: 38.5
+      iso: 125
+      model: X-T50
+      shutterSpeed: 340
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5424.jpg
+    meta:
+      title: Dscf5424
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T12:35:58.000Z
+      fNumber: 5.6
+      focalLength: 39.6
+      iso: 125
+      model: X-T50
+      shutterSpeed: 850.0000000000001
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5433.jpg
+    meta:
+      title: Dscf5433
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T12:38:24.000Z
+      fNumber: 5.6
+      focalLength: 16
+      iso: 125
+      model: X-T50
+      shutterSpeed: 850.0000000000001
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5439.jpg
+    meta:
+      title: Dscf5439
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T14:28:31.000Z
+      fNumber: 5.6
+      focalLength: 35.3
+      iso: 125
+      model: X-T50
+      shutterSpeed: 950
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf54512.jpg
+    meta:
+      title: Dscf54512
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T14:31:47.000Z
+      fNumber: 4.59
+      focalLength: 45.8
+      iso: 200
+      model: X-T50
+      shutterSpeed: 140
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5467.jpg
+    meta:
+      title: Dscf5467
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T14:38:16.000Z
+      fNumber: 5
+      focalLength: 29.6
+      iso: 125
+      model: X-T50
+      shutterSpeed: 209.99999999999997
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5469.jpg
+    meta:
+      title: Dscf5469
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T14:38:45.000Z
+      fNumber: 4.5
+      focalLength: 44.5
+      iso: 200
+      model: X-T50
+      shutterSpeed: 120
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5500.jpg
+    meta:
+      title: Dscf5500
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T14:47:16.000Z
+      fNumber: 5.6
+      focalLength: 35.3
+      iso: 125
+      model: X-T50
+      shutterSpeed: 220
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5509.jpg
+    meta:
+      title: Dscf5509
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T14:48:52.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 125
+      model: X-T50
+      shutterSpeed: 280
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5511.jpg
+    meta:
+      title: Dscf5511
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T14:49:28.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 125
+      model: X-T50
+      shutterSpeed: 280
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5516.jpg
+    meta:
+      title: Dscf5516
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T14:50:35.000Z
+      fNumber: 3.8
+      focalLength: 32.3
+      iso: 1600
+      model: X-T50
+      shutterSpeed: 2000
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf55612.jpg
+    meta:
+      title: Dscf55612
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T15:09:22.000Z
+      fNumber: 4.8
+      focalLength: 50
+      iso: 320
+      model: X-T50
+      shutterSpeed: 150
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5563.jpg
+    meta:
+      title: Dscf5563
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T15:13:45.000Z
+      fNumber: 5
+      focalLength: 48.6
+      iso: 125
+      model: X-T50
+      shutterSpeed: 150
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5566.jpg
+    meta:
+      title: Dscf5566
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T15:13:52.000Z
+      fNumber: 5.6
+      focalLength: 48.6
+      iso: 250
+      model: X-T50
+      shutterSpeed: 200
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5570.jpg
+    meta:
+      title: Dscf5570
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T15:26:09.000Z
+      fNumber: 5.6
+      focalLength: 16.5
+      iso: 250
+      model: X-T50
+      shutterSpeed: 419.99999999999994
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/dscf5579.jpg
+    meta:
+      title: Dscf5579
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-09T15:33:04.000Z
+      fNumber: 4
+      focalLength: 36.3
+      iso: 1250
+      model: X-T50
+      shutterSpeed: 2000
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
