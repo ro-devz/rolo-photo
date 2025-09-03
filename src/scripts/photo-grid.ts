@@ -64,7 +64,7 @@ export async function setupGallery() {
 
 	// Wait for all images to load
 	const imageElements = await waitForImagesToLoad(container);
-
+	
 	// Get actual image dimensions after loading
 	const layout = createLayoutFor(imageElements, container);
 	console.log('Generated layout:', layout);
@@ -123,7 +123,7 @@ function applyImagesStyleBasedOnLayout(imageLinks: HTMLElement[], layout: Justif
 	imageLinks.forEach((el, i) => {
 		if (!layout.boxes[i]) return;
 		const { left, top, width, height } = layout.boxes[i];
-
+		
 		el.style.position = 'absolute';
 		el.style.left = `${left}px`;
 		el.style.top = `${top}px`;
