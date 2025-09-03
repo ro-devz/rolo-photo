@@ -22,12 +22,13 @@ images:
         - featured
         - travel
     exif: {}
-  - path: paris/dscf5022.jpg
+  - path: paris/papi.jpg
     meta:
-      title: Dscf5022
+      title: Papi
       description: ''
       collections:
         - paris
+        - featured
     exif:
       captureDate: 2025-08-07T15:45:05.000Z
       fNumber: 4.5
@@ -51,9 +52,9 @@ images:
       model: X-T50
       shutterSpeed: 950
       lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: paris/dscf5089.jpg
+  - path: paris/juuzo.jpg
     meta:
-      title: Dscf5089
+      title: Juuzo
       description: ''
       collections:
         - paris
@@ -65,9 +66,9 @@ images:
       model: X-T50
       shutterSpeed: 58
       lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: paris/dscf5094.jpg
+  - path: paris/juuzo-debout.jpg
     meta:
-      title: Dscf5094
+      title: Juuzo qui a faim
       description: ''
       collections:
         - paris
@@ -365,6 +366,7 @@ images:
       description: ''
       collections:
         - paris
+        - featured
     exif:
       captureDate: 2025-08-09T14:31:47.000Z
       fNumber: 4.59
