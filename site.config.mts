@@ -21,6 +21,6 @@ export const navLinks: NavLink[] = [
 export default {
     title: 'Japon  R&L',
     favicon: 'favicon.ico',
-    owner: 'Romane & Loic',
+    owner: 'Romane & Loïc',
     profileImage: 'profile.webp',
 };
