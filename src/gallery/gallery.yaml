@@ -51,20 +51,7 @@ images:
       model: X-T50
       shutterSpeed: 950
       lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: paris/juuzo.jpg
-    meta:
-      title: Juuzo
-      description: ''
-      collections:
-        - paris
-    exif:
-      captureDate: 2025-08-07T19:55:28.000Z
-      fNumber: 3.3
-      focalLength: 22
-      iso: 4000
-      model: X-T50
-      shutterSpeed: 58
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
+
   - path: paris/carpes3.jpg
     meta:
       title: Carpes 3
@@ -78,6 +65,20 @@ images:
       iso: 125
       model: X-T50
       shutterSpeed: 240
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: paris/juuzo-debout.jpg
+    meta:
+      title: Juuzo qui a faim
+      description: ''
+      collections:
+        - paris
+    exif:
+      captureDate: 2025-08-07T19:57:01.000Z
+      fNumber: 2.8
+      focalLength: 16
+      iso: 4000
+      model: X-T50
+      shutterSpeed: 38
       lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/nenuphar.jpg
     meta:
@@ -380,22 +381,21 @@ images:
       model: X-T50
       shutterSpeed: 280
       lensModel: XF16-50mmF2.8-4.8 R LM WR
-  
-  - path: paris/juuzo-debout.jpg
+  - path: paris/juuzo.jpg
     meta:
-      title: Juuzo qui a faim
+      title: Juuzo
       description: ''
       collections:
         - paris
-      orientation: vertical
     exif:
-      captureDate: 2025-08-07T19:57:01.000Z
-      fNumber: 2.8
-      focalLength: 16
+      captureDate: 2025-08-07T19:55:28.000Z
+      fNumber: 3.3
+      focalLength: 22
       iso: 4000
       model: X-T50
-      shutterSpeed: 38
+      shutterSpeed: 58
       lensModel: XF16-50mmF2.8-4.8 R LM WR
+
   - path: paris/carpe-soleil.jpg
     meta:
       title: Carpes au soleil
@@ -486,7 +486,6 @@ images:
       description: ''
       collections:
         - paris
-      orientation: horizontal
     exif:
       captureDate: 2025-08-09T12:02:18.000Z
       fNumber: 5.6
