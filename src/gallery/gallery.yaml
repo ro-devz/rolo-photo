@@ -20,7 +20,6 @@ images:
       collections:
         - travel
     exif: {}
-  
   - path: paris/papi.jpg
     meta:
       title: Papi
@@ -51,7 +50,6 @@ images:
       model: X-T50
       shutterSpeed: 950
       lensModel: XF16-50mmF2.8-4.8 R LM WR
-
   - path: paris/carpes3.jpg
     meta:
       title: Carpes 3
@@ -93,10 +91,7 @@ images:
       iso: 125
       model: X-T50
       shutterSpeed: 280
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  
-  
-  
+      lensModel: XF16-50mmF2.8-4.8 R LM WR  
   - path: paris/pont-carpes.jpg
     meta:
       title: Pont fleuri
@@ -124,8 +119,7 @@ images:
       iso: 125
       model: X-T50
       shutterSpeed: 250
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  
+      lensModel: XF16-50mmF2.8-4.8 R LM WR  
   - path: paris/paon.jpg
     meta:
       title: Paon
@@ -196,7 +190,6 @@ images:
       model: X-T50
       shutterSpeed: 240
       lensModel: XF16-50mmF2.8-4.8 R LM WR
-  
   - path: paris/papi-vignes.jpg
     meta:
       title: Vignes
@@ -225,7 +218,6 @@ images:
       model: X-T50
       shutterSpeed: 300
       lensModel: XF16-50mmF2.8-4.8 R LM WR
-
   - path: paris/luna.jpg
     meta:
       title: Luna sur son canapé
@@ -395,13 +387,13 @@ images:
       model: X-T50
       shutterSpeed: 58
       lensModel: XF16-50mmF2.8-4.8 R LM WR
-
   - path: paris/carpe-soleil.jpg
     meta:
       title: Carpes au soleil
       description: Petites carpes a Bagatelle qui prennent le soleil
       collections:
         - paris
+        - featured
     exif:
       captureDate: 2025-08-09T11:26:17.000Z
       fNumber: 5.6
