@@ -21,6 +21,20 @@ images:
       model: X-T50
       shutterSpeed: 250
       lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/shinjuku-4.jpg
+    meta:
+      title: Shinjuku 4
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T15:02:56.000Z
+      fNumber: 3.4
+      focalLength: 24.1
+      iso: 1000
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/lustre.jpg
     meta:
       title: Lustre
@@ -50,6 +64,20 @@ images:
       model: X-T50
       shutterSpeed: 950
       lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-46.jpg
+    meta:
+      title: Asakusa 46
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:16:37.000Z
+      fNumber: 2.8
+      focalLength: 16
+      iso: 1600
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/carpes3.jpg
     meta:
       title: Carpes 3
@@ -77,6 +105,21 @@ images:
       iso: 4000
       model: X-T50
       shutterSpeed: 38
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-21.jpg
+    meta:
+      title: Asakusa 21
+      description: ''
+      collections:
+        - tokyo
+        - featured
+    exif:
+      captureDate: 2025-09-07T07:00:37.000Z
+      fNumber: 4.5
+      focalLength: 27.1
+      iso: 250
+      model: X-T50
+      shutterSpeed: 170
       lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/nenuphar.jpg
     meta:
@@ -106,6 +149,20 @@ images:
       model: X-T50
       shutterSpeed: 209.99999999999997
       lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/shinjuku-1.jpg
+    meta:
+      title: Shinjuku 1
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T14:56:47.000Z
+      fNumber: 3.7
+      focalLength: 31.4
+      iso: 2000
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/lovely-meilland.jpg
     meta:
       title: Roses Lovely Meilland
@@ -119,6 +176,20 @@ images:
       iso: 125
       model: X-T50
       shutterSpeed: 250
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-52.jpg
+    meta:
+      title: Asakusa 52
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:32:33.000Z
+      fNumber: 5
+      focalLength: 42
+      iso: 250
+      model: X-T50
+      shutterSpeed: 209.99999999999997
       lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/vitrail.jpg
     meta:
@@ -148,6 +219,20 @@ images:
       model: X-T50
       shutterSpeed: 480
       lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-31.jpg
+    meta:
+      title: Asakusa 31
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:04:52.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 250
+      model: X-T50
+      shutterSpeed: 500
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/peinture-toit.jpg
     meta:
       title: Peinture
@@ -175,6 +260,20 @@ images:
       iso: 160
       model: X-T50
       shutterSpeed: 350
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/shinjuku-6.jpg
+    meta:
+      title: Shinjuku 6
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T15:08:14.000Z
+      fNumber: 3.7
+      focalLength: 31.4
+      iso: 2000
+      model: X-T50
+      shutterSpeed: 200
       lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/papi-bob.jpg
     meta:
@@ -204,6 +303,20 @@ images:
       model: X-T50
       shutterSpeed: 240
       lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-17.jpg
+    meta:
+      title: Asakusa 17
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:00:15.000Z
+      fNumber: 5.6
+      focalLength: 37.4
+      iso: 250
+      model: X-T50
+      shutterSpeed: 220
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/papi-vignes.jpg
     meta:
       title: Vignes
@@ -231,6 +344,20 @@ images:
       iso: 2000
       model: X-T50
       shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/shinjuku.jpg
+    meta:
+      title: Shinjuku
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T15:09:16.000Z
+      fNumber: 4.2
+      focalLength: 38.5
+      iso: 640
+      model: X-T50
+      shutterSpeed: 110
       lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/baba-roses.jpg
     meta:
@@ -260,6 +387,20 @@ images:
       model: X-T50
       shutterSpeed: 25
       lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-42.jpg
+    meta:
+      title: Asakusa 42
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:13:33.000Z
+      fNumber: 3.6
+      focalLength: 22
+      iso: 250
+      model: X-T50
+      shutterSpeed: 140
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/roses.jpg
     meta:
       title: Rose
@@ -287,6 +428,20 @@ images:
       iso: 125
       model: X-T50
       shutterSpeed: 150
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-14.jpg
+    meta:
+      title: Asakusa 14
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T06:59:07.000Z
+      fNumber: 4.5
+      focalLength: 26.3
+      iso: 250
+      model: X-T50
+      shutterSpeed: 170
       lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/passage.jpg
     meta:
@@ -316,6 +471,20 @@ images:
       model: X-T50
       shutterSpeed: 850.0000000000001
       lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/shijuku-2.jpg
+    meta:
+      title: Shijuku 2
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T14:52:31.000Z
+      fNumber: 4.7
+      focalLength: 47.2
+      iso: 4000
+      model: X-T50
+      shutterSpeed: 140
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/fleche.jpg
     meta:
       title: Fleche
@@ -343,6 +512,20 @@ images:
       iso: 125
       model: X-T50
       shutterSpeed: 800
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-54.jpg
+    meta:
+      title: Asakusa 54
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:32:42.000Z
+      fNumber: 4.5
+      focalLength: 36.3
+      iso: 250
+      model: X-T50
+      shutterSpeed: 160
       lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/psa.jpg
     meta:
@@ -373,6 +556,20 @@ images:
       model: X-T50
       shutterSpeed: 140
       lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-26.jpg
+    meta:
+      title: Asakusa 26
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:02:47.000Z
+      fNumber: 5
+      focalLength: 20.8
+      iso: 250
+      model: X-T50
+      shutterSpeed: 240
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/chat-soleil.jpg
     meta:
       title: Chat Soleil
@@ -401,6 +598,20 @@ images:
       model: X-T50
       shutterSpeed: 220
       lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/shinjuku-3.jpg
+    meta:
+      title: Shinjuku 3
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T15:00:00.000Z
+      fNumber: 3.8
+      focalLength: 32.3
+      iso: 1600
+      model: X-T50
+      shutterSpeed: 28
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/oiseau.jpg
     meta:
       title: Oiseau
@@ -428,6 +639,20 @@ images:
       iso: 4000
       model: X-T50
       shutterSpeed: 58
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-50.jpg
+    meta:
+      title: Asakusa 50
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:32:09.000Z
+      fNumber: 5.6
+      focalLength: 30.5
+      iso: 250
+      model: X-T50
+      shutterSpeed: 400
       lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/carpe-soleil.jpg
     meta:
@@ -458,6 +683,20 @@ images:
       model: X-T50
       shutterSpeed: 2000
       lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/shinjuku-2.jpg
+    meta:
+      title: Shinjuku 2
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T14:59:24.000Z
+      fNumber: 2.8
+      focalLength: 16
+      iso: 1600
+      model: X-T50
+      shutterSpeed: 38
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/ecureuil.jpg
     meta:
       title: Ecureuil
@@ -485,6 +724,20 @@ images:
       iso: 125
       model: X-T50
       shutterSpeed: 150
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-47.jpg
+    meta:
+      title: Asakusa 47
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:20:21.000Z
+      fNumber: 2.8
+      focalLength: 16
+      iso: 250
+      model: X-T50
+      shutterSpeed: 100
       lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/orangerie2.jpg
     meta:
@@ -514,6 +767,20 @@ images:
       model: X-T50
       shutterSpeed: 2000
       lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-12.jpg
+    meta:
+      title: Asakusa 12
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T06:58:36.000Z
+      fNumber: 5.6
+      focalLength: 26.3
+      iso: 250
+      model: X-T50
+      shutterSpeed: 400
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/statue.jpg
     meta:
       title: Statue
@@ -542,6 +809,20 @@ images:
       model: X-T50
       shutterSpeed: 480
       lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/shinjuku-5.jpg
+    meta:
+      title: Shinjuku 5
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T15:05:05.000Z
+      fNumber: 4.8
+      focalLength: 50
+      iso: 800
+      model: X-T50
+      shutterSpeed: 150
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: paris/cote-notre-dame.jpg
     meta:
       title: Cote Notre Dame
@@ -557,91 +838,6 @@ images:
       model: X-T50
       shutterSpeed: 90
       lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/asakusa-12.jpg
-    meta:
-      title: Asakusa 12
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T06:58:36.000Z
-      fNumber: 5.6
-      focalLength: 26.3
-      iso: 250
-      model: X-T50
-      shutterSpeed: 400
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/asakusa-14.jpg
-    meta:
-      title: Asakusa 14
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T06:59:07.000Z
-      fNumber: 4.5
-      focalLength: 26.3
-      iso: 250
-      model: X-T50
-      shutterSpeed: 170
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/asakusa-17.jpg
-    meta:
-      title: Asakusa 17
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T07:00:15.000Z
-      fNumber: 5.6
-      focalLength: 37.4
-      iso: 250
-      model: X-T50
-      shutterSpeed: 220
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/asakusa-21.jpg
-    meta:
-      title: Asakusa 21
-      description: ''
-      collections:
-        - tokyo
-        - featured
-    exif:
-      captureDate: 2025-09-07T07:00:37.000Z
-      fNumber: 4.5
-      focalLength: 27.1
-      iso: 250
-      model: X-T50
-      shutterSpeed: 170
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/asakusa-26.jpg
-    meta:
-      title: Asakusa 26
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T07:02:47.000Z
-      fNumber: 5
-      focalLength: 20.8
-      iso: 250
-      model: X-T50
-      shutterSpeed: 240
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/asakusa-31.jpg
-    meta:
-      title: Asakusa 31
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T07:04:52.000Z
-      fNumber: 5.6
-      focalLength: 50
-      iso: 250
-      model: X-T50
-      shutterSpeed: 500
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: tokyo/asakusa-38.jpg
     meta:
       title: Asakusa 38
@@ -655,48 +851,6 @@ images:
       iso: 250
       model: X-T50
       shutterSpeed: 480
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/asakusa-42.jpg
-    meta:
-      title: Asakusa 42
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T07:13:33.000Z
-      fNumber: 3.6
-      focalLength: 22
-      iso: 250
-      model: X-T50
-      shutterSpeed: 140
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/asakusa-46.jpg
-    meta:
-      title: Asakusa 46
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T07:16:37.000Z
-      fNumber: 2.8
-      focalLength: 16
-      iso: 1600
-      model: X-T50
-      shutterSpeed: 100
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/asakusa-47.jpg
-    meta:
-      title: Asakusa 47
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T07:20:21.000Z
-      fNumber: 2.8
-      focalLength: 16
-      iso: 250
-      model: X-T50
-      shutterSpeed: 100
       lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: tokyo/asakusa-49.jpg
     meta:
@@ -712,48 +866,6 @@ images:
       model: X-T50
       shutterSpeed: 1000
       lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/asakusa-50.jpg
-    meta:
-      title: Asakusa 50
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T07:32:09.000Z
-      fNumber: 5.6
-      focalLength: 30.5
-      iso: 250
-      model: X-T50
-      shutterSpeed: 400
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/asakusa-52.jpg
-    meta:
-      title: Asakusa 52
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T07:32:33.000Z
-      fNumber: 5
-      focalLength: 42
-      iso: 250
-      model: X-T50
-      shutterSpeed: 209.99999999999997
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/asakusa-54.jpg
-    meta:
-      title: Asakusa 54
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T07:32:42.000Z
-      fNumber: 4.5
-      focalLength: 36.3
-      iso: 250
-      model: X-T50
-      shutterSpeed: 160
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
   - path: tokyo/asakusa.jpg
     meta:
       title: Asakusa
@@ -767,116 +879,4 @@ images:
       iso: 250
       model: X-T50
       shutterSpeed: 750
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/shijuku-2.jpg
-    meta:
-      title: Shijuku 2
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T14:52:31.000Z
-      fNumber: 4.7
-      focalLength: 47.2
-      iso: 4000
-      model: X-T50
-      shutterSpeed: 140
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/shinjuku-1.jpg
-    meta:
-      title: Shinjuku 1
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T14:56:47.000Z
-      fNumber: 3.7
-      focalLength: 31.4
-      iso: 2000
-      model: X-T50
-      shutterSpeed: 100
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/shinjuku-2.jpg
-    meta:
-      title: Shinjuku 2
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T14:59:24.000Z
-      fNumber: 2.8
-      focalLength: 16
-      iso: 1600
-      model: X-T50
-      shutterSpeed: 38
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/shinjuku-3.jpg
-    meta:
-      title: Shinjuku 3
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T15:00:00.000Z
-      fNumber: 3.8
-      focalLength: 32.3
-      iso: 1600
-      model: X-T50
-      shutterSpeed: 28
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/shinjuku-4.jpg
-    meta:
-      title: Shinjuku 4
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T15:02:56.000Z
-      fNumber: 3.4
-      focalLength: 24.1
-      iso: 1000
-      model: X-T50
-      shutterSpeed: 100
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/shinjuku-5.jpg
-    meta:
-      title: Shinjuku 5
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T15:05:05.000Z
-      fNumber: 4.8
-      focalLength: 50
-      iso: 800
-      model: X-T50
-      shutterSpeed: 150
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/shinjuku-6.jpg
-    meta:
-      title: Shinjuku 6
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T15:08:14.000Z
-      fNumber: 3.7
-      focalLength: 31.4
-      iso: 2000
-      model: X-T50
-      shutterSpeed: 200
-      lensModel: XF16-50mmF2.8-4.8 R LM WR
-  - path: tokyo/shinjuku.jpg
-    meta:
-      title: Shinjuku
-      description: ''
-      collections:
-        - tokyo
-    exif:
-      captureDate: 2025-09-07T15:09:16.000Z
-      fNumber: 4.2
-      focalLength: 38.5
-      iso: 640
-      model: X-T50
-      shutterSpeed: 110
       lensModel: XF16-50mmF2.8-4.8 R LM WR
