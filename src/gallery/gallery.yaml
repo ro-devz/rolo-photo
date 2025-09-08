@@ -21,7 +21,6 @@ images:
       model: X-T50
       shutterSpeed: 250
       lensModel: XF16-50mmF2.8-4.8 R LM WR
-
   - path: paris/lustre.jpg
     meta:
       title: Lustre
@@ -79,7 +78,6 @@ images:
       model: X-T50
       shutterSpeed: 38
       lensModel: XF16-50mmF2.8-4.8 R LM WR
-  
   - path: paris/nenuphar.jpg
     meta:
       title: Nenuphars
@@ -332,7 +330,6 @@ images:
       model: X-T50
       shutterSpeed: 500
       lensModel: XF16-50mmF2.8-4.8 R LM WR
-
   - path: paris/roserai2.jpg
     meta:
       title: roserai2
@@ -517,7 +514,6 @@ images:
       model: X-T50
       shutterSpeed: 2000
       lensModel: XF16-50mmF2.8-4.8 R LM WR
-  
   - path: paris/statue.jpg
     meta:
       title: Statue
@@ -532,7 +528,6 @@ images:
       model: X-T50
       shutterSpeed: 52
       lensModel: XF16-50mmF2.8-4.8 R LM WR
-
   - path: paris/papi-baba.jpg
     meta:
       title: Papi et Baba
@@ -561,4 +556,201 @@ images:
       iso: 1600
       model: X-T50
       shutterSpeed: 90
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-12.jpg
+    meta:
+      title: Asakusa 12
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T06:58:36.000Z
+      fNumber: 5.6
+      focalLength: 26.3
+      iso: 250
+      model: X-T50
+      shutterSpeed: 400
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-14.jpg
+    meta:
+      title: Asakusa 14
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T06:59:07.000Z
+      fNumber: 4.5
+      focalLength: 26.3
+      iso: 250
+      model: X-T50
+      shutterSpeed: 170
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-17.jpg
+    meta:
+      title: Asakusa 17
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:00:15.000Z
+      fNumber: 5.6
+      focalLength: 37.4
+      iso: 250
+      model: X-T50
+      shutterSpeed: 220
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-21.jpg
+    meta:
+      title: Asakusa 21
+      description: ''
+      collections:
+        - tokyo
+        - featured
+    exif:
+      captureDate: 2025-09-07T07:00:37.000Z
+      fNumber: 4.5
+      focalLength: 27.1
+      iso: 250
+      model: X-T50
+      shutterSpeed: 170
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-26.jpg
+    meta:
+      title: Asakusa 26
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:02:47.000Z
+      fNumber: 5
+      focalLength: 20.8
+      iso: 250
+      model: X-T50
+      shutterSpeed: 240
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-31.jpg
+    meta:
+      title: Asakusa 31
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:04:52.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 250
+      model: X-T50
+      shutterSpeed: 500
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-38.jpg
+    meta:
+      title: Asakusa 38
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:10:23.000Z
+      fNumber: 5.6
+      focalLength: 48.6
+      iso: 250
+      model: X-T50
+      shutterSpeed: 480
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-42.jpg
+    meta:
+      title: Asakusa 42
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:13:33.000Z
+      fNumber: 3.6
+      focalLength: 22
+      iso: 250
+      model: X-T50
+      shutterSpeed: 140
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-46.jpg
+    meta:
+      title: Asakusa 46
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:16:37.000Z
+      fNumber: 2.8
+      focalLength: 16
+      iso: 1600
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-47.jpg
+    meta:
+      title: Asakusa 47
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:20:21.000Z
+      fNumber: 2.8
+      focalLength: 16
+      iso: 250
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-49.jpg
+    meta:
+      title: Asakusa 49
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:24:26.000Z
+      fNumber: 6.4
+      focalLength: 16
+      iso: 250
+      model: X-T50
+      shutterSpeed: 1000
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-50.jpg
+    meta:
+      title: Asakusa 50
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:32:09.000Z
+      fNumber: 5.6
+      focalLength: 30.5
+      iso: 250
+      model: X-T50
+      shutterSpeed: 400
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-52.jpg
+    meta:
+      title: Asakusa 52
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:32:33.000Z
+      fNumber: 5
+      focalLength: 42
+      iso: 250
+      model: X-T50
+      shutterSpeed: 209.99999999999997
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/asakusa-54.jpg
+    meta:
+      title: Asakusa 54
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-07T07:32:42.000Z
+      fNumber: 4.5
+      focalLength: 36.3
+      iso: 250
+      model: X-T50
+      shutterSpeed: 160
       lensModel: XF16-50mmF2.8-4.8 R LM WR
