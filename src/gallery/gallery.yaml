@@ -880,3 +880,1347 @@ images:
       model: X-T50
       shutterSpeed: 750
       lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/akihabara-1.jpg
+    meta:
+      title: Akihabara 1
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T10:59:34.000Z
+      fNumber: 4.8
+      focalLength: 50
+      iso: 3200
+      model: X-T50
+      shutterSpeed: 38
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/akihabara-10.jpg
+    meta:
+      title: Akihabara 10
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T10:00:32.000Z
+      fNumber: 4
+      focalLength: 29.6
+      iso: 250
+      model: X-T50
+      shutterSpeed: 140
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/akihabara-11.jpg
+    meta:
+      title: Akihabara 11
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T10:03:39.000Z
+      fNumber: 3.9
+      focalLength: 34.3
+      iso: 320
+      model: X-T50
+      shutterSpeed: 104.99999999999999
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/akihabara-12.jpg
+    meta:
+      title: Akihabara 12
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T10:04:16.000Z
+      fNumber: 4.5
+      focalLength: 44.5
+      iso: 800
+      model: X-T50
+      shutterSpeed: 125
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/akihabara-13.jpg
+    meta:
+      title: Akihabara 13
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T10:04:40.000Z
+      fNumber: 2.8
+      focalLength: 16
+      iso: 250
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/akihabara-14.jpg
+    meta:
+      title: Akihabara 14
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T10:54:00.000Z
+      fNumber: 4.8
+      focalLength: 50
+      iso: 1600
+      model: X-T50
+      shutterSpeed: 150
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/akihabara-2.jpg
+    meta:
+      title: Akihabara 2
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T06:47:28.000Z
+      fNumber: 5
+      focalLength: 50
+      iso: 250
+      model: X-T50
+      shutterSpeed: 150
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/akihabara-3.jpg
+    meta:
+      title: Akihabara 3
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T07:13:38.000Z
+      fNumber: 5.6
+      focalLength: 24.8
+      iso: 250
+      model: X-T50
+      shutterSpeed: 280
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/akihabara-4.jpg
+    meta:
+      title: Akihabara 4
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T07:35:55.000Z
+      fNumber: 4.2
+      focalLength: 38.5
+      iso: 320
+      model: X-T50
+      shutterSpeed: 110
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/akihabara-5.jpg
+    meta:
+      title: Akihabara 5
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T07:36:01.000Z
+      fNumber: 4.5
+      focalLength: 44.5
+      iso: 500
+      model: X-T50
+      shutterSpeed: 125
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/akihabara-6.jpg
+    meta:
+      title: Akihabara 6
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T07:36:17.000Z
+      fNumber: 4.5
+      focalLength: 44.5
+      iso: 800
+      model: X-T50
+      shutterSpeed: 125
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/akihabara-7.jpg
+    meta:
+      title: Akihabara 7
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T07:36:38.000Z
+      fNumber: 4.5
+      focalLength: 44.5
+      iso: 500
+      model: X-T50
+      shutterSpeed: 125
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/akihabara-8.jpg
+    meta:
+      title: Akihabara 8
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T07:37:18.000Z
+      fNumber: 2.8
+      focalLength: 16
+      iso: 500
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/akihabara-9.jpg
+    meta:
+      title: Akihabara 9
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T09:09:00.000Z
+      fNumber: 4.5
+      focalLength: 44.5
+      iso: 320
+      model: X-T50
+      shutterSpeed: 125
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/enoshima-1.jpg
+    meta:
+      title: Enoshima 1
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T17:48:19.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 250
+      model: X-T50
+      shutterSpeed: 240
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/enoshima-2.jpg
+    meta:
+      title: Enoshima 2
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T17:51:22.000Z
+      fNumber: 5
+      focalLength: 50
+      iso: 250
+      model: X-T50
+      shutterSpeed: 220
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/enoshima-3.jpg
+    meta:
+      title: Enoshima 3
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T18:01:14.000Z
+      fNumber: 3.4
+      focalLength: 23.4
+      iso: 320
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/enoshima-4.jpg
+    meta:
+      title: Enoshima 4
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T18:01:44.000Z
+      fNumber: 2.8
+      focalLength: 16
+      iso: 250
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-1.jpg
+    meta:
+      title: Hase Dera 1
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T17:28:41.000Z
+      fNumber: 4.2
+      focalLength: 39.6
+      iso: 1000
+      model: X-T50
+      shutterSpeed: 120
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-10.jpg
+    meta:
+      title: Hase Dera 10
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T16:09:30.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 64
+      model: X-T50
+      shutterSpeed: 170
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-11.jpg
+    meta:
+      title: Hase Dera 11
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T16:16:08.000Z
+      fNumber: 4
+      focalLength: 21.4
+      iso: 64
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-12.jpg
+    meta:
+      title: Hase Dera 12
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T16:17:59.000Z
+      fNumber: 4.2
+      focalLength: 38.5
+      iso: 1600
+      model: X-T50
+      shutterSpeed: 90
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-13.jpg
+    meta:
+      title: Hase Dera 13
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T16:19:25.000Z
+      fNumber: 5
+      focalLength: 36.3
+      iso: 500
+      model: X-T50
+      shutterSpeed: 150
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-14.jpg
+    meta:
+      title: Hase Dera 14
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T16:21:45.000Z
+      fNumber: 5.6
+      focalLength: 35.3
+      iso: 250
+      model: X-T50
+      shutterSpeed: 600
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-15.jpg
+    meta:
+      title: Hase Dera 15
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T16:24:26.000Z
+      fNumber: 5.6
+      focalLength: 36.3
+      iso: 250
+      model: X-T50
+      shutterSpeed: 550
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-16.jpg
+    meta:
+      title: Hase Dera 16
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T16:25:40.000Z
+      fNumber: 3.8
+      focalLength: 33.3
+      iso: 400
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-17.jpg
+    meta:
+      title: Hase Dera 17
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T16:26:00.000Z
+      fNumber: 3.9
+      focalLength: 34.3
+      iso: 500
+      model: X-T50
+      shutterSpeed: 104.99999999999999
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-18.jpg
+    meta:
+      title: Hase Dera 18
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T16:34:15.000Z
+      fNumber: 3.6
+      focalLength: 26.3
+      iso: 250
+      model: X-T50
+      shutterSpeed: 110
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-19.jpg
+    meta:
+      title: Hase Dera 19
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T16:34:44.000Z
+      fNumber: 3.6
+      focalLength: 29.6
+      iso: 160
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-2.jpg
+    meta:
+      title: Hase Dera 2
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T15:49:35.000Z
+      fNumber: 4.5
+      focalLength: 43.2
+      iso: 80
+      model: X-T50
+      shutterSpeed: 30
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-3.jpg
+    meta:
+      title: Hase Dera 3
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T15:50:59.000Z
+      fNumber: 4
+      focalLength: 33.3
+      iso: 80
+      model: X-T50
+      shutterSpeed: 70
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-4.jpg
+    meta:
+      title: Hase Dera 4
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T15:52:10.000Z
+      fNumber: 3.6
+      focalLength: 29.6
+      iso: 80
+      model: X-T50
+      shutterSpeed: 30
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-5.jpg
+    meta:
+      title: Hase Dera 5
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T15:52:50.000Z
+      fNumber: 5.6
+      focalLength: 37.4
+      iso: 250
+      model: X-T50
+      shutterSpeed: 350
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-6.jpg
+    meta:
+      title: Hase Dera 6
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T16:02:54.000Z
+      fNumber: 4.8
+      focalLength: 50
+      iso: 1600
+      model: X-T50
+      shutterSpeed: 90
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-7.jpg
+    meta:
+      title: Hase Dera 7
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T16:06:39.000Z
+      fNumber: 3.7
+      focalLength: 31.4
+      iso: 1000
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-8.jpg
+    meta:
+      title: Hase Dera 8
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T16:07:59.000Z
+      fNumber: 5
+      focalLength: 16
+      iso: 250
+      model: X-T50
+      shutterSpeed: 280
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/hase-dera-9.jpg
+    meta:
+      title: Hase Dera 9
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T16:08:51.000Z
+      fNumber: 3.2
+      focalLength: 21.4
+      iso: 64
+      model: X-T50
+      shutterSpeed: 52
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kamakura-2.jpg
+    meta:
+      title: Kamakura 2
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:38:18.000Z
+      fNumber: 3.6
+      focalLength: 26.3
+      iso: 500
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kamakura-3.jpg
+    meta:
+      title: Kamakura 3
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:40:26.000Z
+      fNumber: 4.8
+      focalLength: 50
+      iso: 1250
+      model: X-T50
+      shutterSpeed: 150
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kamakura-4.jpg
+    meta:
+      title: Kamakura 4
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:40:51.000Z
+      fNumber: 3.7
+      focalLength: 31.4
+      iso: 800
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kamakura-5.jpg
+    meta:
+      title: Kamakura 5
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:41:19.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 250
+      model: X-T50
+      shutterSpeed: 750
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kamakura-6.jpg
+    meta:
+      title: Kamakura 6
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:43:24.000Z
+      fNumber: 5.6
+      focalLength: 38.5
+      iso: 250
+      model: X-T50
+      shutterSpeed: 480
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kamakura-7.jpg
+    meta:
+      title: Kamakura 7
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T13:04:36.000Z
+      fNumber: 5
+      focalLength: 39.6
+      iso: 125
+      model: X-T50
+      shutterSpeed: 170
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kamakura-8.jpg
+    meta:
+      title: Kamakura 8
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T14:37:33.000Z
+      fNumber: 3.9
+      focalLength: 35.3
+      iso: 160
+      model: X-T50
+      shutterSpeed: 104.99999999999999
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kamakurakoko-mae-1.jpg
+    meta:
+      title: Kamakurakoko Mae 1
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T14:37:57.000Z
+      fNumber: 5
+      focalLength: 35.3
+      iso: 250
+      model: X-T50
+      shutterSpeed: 180
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kamakurakoko-mae-2.jpg
+    meta:
+      title: Kamakurakoko Mae 2
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T17:08:19.000Z
+      fNumber: 5.6
+      focalLength: 28.7
+      iso: 250
+      model: X-T50
+      shutterSpeed: 600
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kamakurakoko-mae-3.jpg
+    meta:
+      title: Kamakurakoko Mae 3
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T17:09:06.000Z
+      fNumber: 5.6
+      focalLength: 16
+      iso: 250
+      model: X-T50
+      shutterSpeed: 550
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kamakurakoko-mae-4.jpg
+    meta:
+      title: Kamakurakoko Mae 4
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T17:16:55.000Z
+      fNumber: 5.6
+      focalLength: 36.3
+      iso: 125
+      model: X-T50
+      shutterSpeed: 200
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kamakurakoko-mae-5.jpg
+    meta:
+      title: Kamakurakoko Mae 5
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T17:20:17.000Z
+      fNumber: 5.6
+      focalLength: 33.3
+      iso: 250
+      model: X-T50
+      shutterSpeed: 419.99999999999994
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kamakurakoko-mae-6.jpg
+    meta:
+      title: Kamakurakoko Mae 6
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T17:20:30.000Z
+      fNumber: 5.6
+      focalLength: 19
+      iso: 250
+      model: X-T50
+      shutterSpeed: 500
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kamakurakoko-mae-7.jpg
+    meta:
+      title: Kamakurakoko Mae 7
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T17:20:36.000Z
+      fNumber: 5
+      focalLength: 16
+      iso: 250
+      model: X-T50
+      shutterSpeed: 250
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kamakurakoko-mae-8.jpg
+    meta:
+      title: Kamakurakoko Mae 8
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T17:22:05.000Z
+      fNumber: 5.6
+      focalLength: 40.8
+      iso: 250
+      model: X-T50
+      shutterSpeed: 220
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kotoku-in-1.jpg
+    meta:
+      title: Kotoku In 1
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T15:33:58.000Z
+      fNumber: 5.6
+      focalLength: 27.9
+      iso: 250
+      model: X-T50
+      shutterSpeed: 500
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kotoku-in-10.jpg
+    meta:
+      title: Kotoku In 10
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T15:27:20.000Z
+      fNumber: 3.5
+      focalLength: 25.5
+      iso: 3200
+      model: X-T50
+      shutterSpeed: 25
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kotoku-in-11.jpg
+    meta:
+      title: Kotoku In 11
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T15:28:43.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 250
+      model: X-T50
+      shutterSpeed: 450
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kotoku-in-12.jpg
+    meta:
+      title: Kotoku In 12
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T15:28:57.000Z
+      fNumber: 5.6
+      focalLength: 27.1
+      iso: 250
+      model: X-T50
+      shutterSpeed: 550
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kotoku-in-13.jpg
+    meta:
+      title: Kotoku In 13
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T15:31:48.000Z
+      fNumber: 5.6
+      focalLength: 47.2
+      iso: 250
+      model: X-T50
+      shutterSpeed: 680
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kotoku-in-2.jpg
+    meta:
+      title: Kotoku In 2
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T14:53:25.000Z
+      fNumber: 5.6
+      focalLength: 33.3
+      iso: 250
+      model: X-T50
+      shutterSpeed: 750
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kotoku-in-3.jpg
+    meta:
+      title: Kotoku In 3
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T14:54:03.000Z
+      fNumber: 5.6
+      focalLength: 34.3
+      iso: 125
+      model: X-T50
+      shutterSpeed: 1250
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kotoku-in-4.jpg
+    meta:
+      title: Kotoku In 4
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T14:55:30.000Z
+      fNumber: 4.5
+      focalLength: 22
+      iso: 250
+      model: X-T50
+      shutterSpeed: 220
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kotoku-in-5.jpg
+    meta:
+      title: Kotoku In 5
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T15:06:11.000Z
+      fNumber: 5.6
+      focalLength: 36.3
+      iso: 250
+      model: X-T50
+      shutterSpeed: 400
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kotoku-in-6.jpg
+    meta:
+      title: Kotoku In 6
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T15:08:02.000Z
+      fNumber: 5.6
+      focalLength: 43.2
+      iso: 125
+      model: X-T50
+      shutterSpeed: 550
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kotoku-in-7.jpg
+    meta:
+      title: Kotoku In 7
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T15:10:19.000Z
+      fNumber: 3.7
+      focalLength: 30.5
+      iso: 320
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kotoku-in-8.jpg
+    meta:
+      title: Kotoku In 8
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T15:11:24.000Z
+      fNumber: 4.2
+      focalLength: 39.6
+      iso: 320
+      model: X-T50
+      shutterSpeed: 120
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/kotoku-in-9.jpg
+    meta:
+      title: Kotoku In 9
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T15:17:42.000Z
+      fNumber: 3.1
+      focalLength: 20.2
+      iso: 500
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/shibuya-1.jpg
+    meta:
+      title: Shibuya 1
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T12:20:02.000Z
+      fNumber: 3.7
+      focalLength: 31.4
+      iso: 400
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/shibuya-2.jpg
+    meta:
+      title: Shibuya 2
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T12:22:01.000Z
+      fNumber: 4.5
+      focalLength: 44.5
+      iso: 1250
+      model: X-T50
+      shutterSpeed: 125
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/shibuya-3.jpg
+    meta:
+      title: Shibuya 3
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T12:22:25.000Z
+      fNumber: 4.8
+      focalLength: 50
+      iso: 1600
+      model: X-T50
+      shutterSpeed: 150
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/shibuya-4.jpg
+    meta:
+      title: Shibuya 4
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T11:06:01.000Z
+      fNumber: 4.8
+      focalLength: 50
+      iso: 3200
+      model: X-T50
+      shutterSpeed: 150
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/shibuya-5.jpg
+    meta:
+      title: Shibuya 5
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T11:46:52.000Z
+      fNumber: 2.8
+      focalLength: 16
+      iso: 500
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/shibuya-6.jpg
+    meta:
+      title: Shibuya 6
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T11:48:49.000Z
+      fNumber: 2.8
+      focalLength: 16
+      iso: 500
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/shibuya-7.jpg
+    meta:
+      title: Shibuya 7
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-08T12:03:34.000Z
+      fNumber: 2.9
+      focalLength: 17
+      iso: 640
+      model: X-T50
+      shutterSpeed: 100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-1.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 1
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:36:49.000Z
+      fNumber: 4.8
+      focalLength: 48.6
+      iso: 80
+      model: X-T50
+      shutterSpeed: 3.5
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-10.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 10
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T11:41:08.000Z
+      fNumber: 5
+      focalLength: 23.4
+      iso: 250
+      model: X-T50
+      shutterSpeed: 220
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-11.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 11
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T11:41:53.000Z
+      fNumber: 5.6
+      focalLength: 40.8
+      iso: 250
+      model: X-T50
+      shutterSpeed: 250
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-12.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 12
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T11:42:30.000Z
+      fNumber: 5.6
+      focalLength: 40.8
+      iso: 250
+      model: X-T50
+      shutterSpeed: 550
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-13.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 13
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:07:43.000Z
+      fNumber: 5.6
+      focalLength: 26.3
+      iso: 250
+      model: X-T50
+      shutterSpeed: 950
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-14.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 14
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:08:32.000Z
+      fNumber: 5.6
+      focalLength: 43.2
+      iso: 250
+      model: X-T50
+      shutterSpeed: 1100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-15.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 15
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:09:33.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 250
+      model: X-T50
+      shutterSpeed: 850.0000000000001
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-16.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 16
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:11:20.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 250
+      model: X-T50
+      shutterSpeed: 280
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-17.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 17
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:11:38.000Z
+      fNumber: 5
+      focalLength: 29.6
+      iso: 125
+      model: X-T50
+      shutterSpeed: 150
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-18.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 18
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:13:48.000Z
+      fNumber: 4.8
+      focalLength: 50
+      iso: 200
+      model: X-T50
+      shutterSpeed: 150
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-19.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 19
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:14:55.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 250
+      model: X-T50
+      shutterSpeed: 900
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-2.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 2
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T10:58:16.000Z
+      fNumber: 4.5
+      focalLength: 16
+      iso: 250
+      model: X-T50
+      shutterSpeed: 200
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-20.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 20
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:16:06.000Z
+      fNumber: 5.6
+      focalLength: 16
+      iso: 250
+      model: X-T50
+      shutterSpeed: 400
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-21.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 21
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:16:28.000Z
+      fNumber: 5.6
+      focalLength: 16
+      iso: 250
+      model: X-T50
+      shutterSpeed: 419.99999999999994
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-22.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 22
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:33:16.000Z
+      fNumber: 5.6
+      focalLength: 27.9
+      iso: 80
+      model: X-T50
+      shutterSpeed: 240
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-23.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 23
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:35:27.000Z
+      fNumber: 3.6
+      focalLength: 27.1
+      iso: 80
+      model: X-T50
+      shutterSpeed: 20
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-24.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 24
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T12:36:35.000Z
+      fNumber: 4.5
+      focalLength: 44.5
+      iso: 80
+      model: X-T50
+      shutterSpeed: 8
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-3.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 3
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T11:00:41.000Z
+      fNumber: 7.1
+      focalLength: 16
+      iso: 250
+      model: X-T50
+      shutterSpeed: 1500
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-4.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 4
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T11:34:02.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 250
+      model: X-T50
+      shutterSpeed: 640
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-5.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 5
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T11:34:27.000Z
+      fNumber: 6.4
+      focalLength: 50
+      iso: 250
+      model: X-T50
+      shutterSpeed: 1100
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-6.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 6
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T11:38:54.000Z
+      fNumber: 4.5
+      focalLength: 20.2
+      iso: 250
+      model: X-T50
+      shutterSpeed: 170
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-7.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 7
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T11:39:38.000Z
+      fNumber: 5.6
+      focalLength: 45.8
+      iso: 250
+      model: X-T50
+      shutterSpeed: 400
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-8.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 8
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T11:40:22.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 125
+      model: X-T50
+      shutterSpeed: 680
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
+  - path: tokyo/tsurugaoka-hachimangu-9.jpg
+    meta:
+      title: Tsurugaoka Hachimangu 9
+      description: ''
+      collections:
+        - tokyo
+    exif:
+      captureDate: 2025-09-09T11:40:32.000Z
+      fNumber: 5.6
+      focalLength: 50
+      iso: 250
+      model: X-T50
+      shutterSpeed: 800
+      lensModel: XF16-50mmF2.8-4.8 R LM WR
